@@ -23,4 +23,4 @@ Para este estudo, utilizarei o dataset disponibilizado pela Idacity:
 - Matplotlib
 - Seaborn
 
-O repositório contém um <a target="_blank" href="https://raw.githubusercontent.com/marcioozorio/titanic-investigando-a-base-de-dados/master/Titanic_Final_V1.1.html">arquivo HTML<a/> com o resultado final para facilitar a visualização. Faça o download e visualize em seu navegador de internet.
+
